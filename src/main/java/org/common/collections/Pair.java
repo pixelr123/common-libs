@@ -1,4 +1,4 @@
-package org.collections;
+package org.common.collections;
 
 import java.util.Objects;
 
